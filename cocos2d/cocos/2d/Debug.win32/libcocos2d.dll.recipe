@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Project\GitHub\KawazJet\proj.win32\Debug.win32\libcocos2d.dll</FullPath>
+      <FullPath>C:\Project\GitHub\Kawaz\KawazJet\proj.win32\Debug.win32\libcocos2d.dll</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
