@@ -1,0 +1,24 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "すべてのファイル (*)",
+    "fileStates": {
+    },
+    "last.imagePath": "C:/Project/GitHub/Kawaz/KawazJet/Resources/map",
+    "map.height": 13,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 24,
+    "map.tileWidth": 24,
+    "map.width": 150,
+    "openFiles": [
+    ],
+    "project": "stage1.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 24,
+        "width": 24
+    }
+}
